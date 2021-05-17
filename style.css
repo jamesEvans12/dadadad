@@ -1,0 +1,69 @@
+body {
+	background-color: #000000;
+	color: red;
+	text-align: center
+}
+.header {
+	background-color: #FF5700;
+	color: black;
+	border: 10px ridge red;
+	margin: 25px;
+	padding: 25px;
+}
+.navbar li {
+	display: inline-block;
+	list-style-type: none;
+	padding: 25px;
+	background-color: #000000;
+	font-size: 18px;
+	color: #FFFFFF;
+}
+.navbar a {
+	text-decoration: none;
+}
+.navbar li:hover {
+	background-color: #FFFFFF;
+	color: #000000;
+}
+.bestquote {
+	color: #FF0000;
+	background-color: #C1FF02;
+}
+.bokunopicoacademia {
+	color: #FFFFFF;
+	
+	
+	
+}
+.bokunopicoacademia:hover {
+	height: 736px;
+	width: 500px;
+	background-image: url("https://i.pinimg.com/originals/0a/46/be/0a46be2513ca3c988a90e2cd296bb5f2.png");
+	
+		
+	
+}
+
+.imagetest {
+	float: left;
+	
+}
+
+p {
+	text-align: center;
+	font-size: 50px;
+	color: yellow; 
+	
+	
+	
+	
+}
+
+.paragraphtwo {
+	font-size: 25px;
+	
+}
+
+.imagetest1 {
+	float: right;
+}
